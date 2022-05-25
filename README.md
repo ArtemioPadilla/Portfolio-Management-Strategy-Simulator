@@ -1,4 +1,4 @@
-# Portfolio-Management-Strategy-Simulator
+# Portfolio Management Strategy Simulator
 
 Portfolio management strategies can bring with them some heated discussions. Which metric is the most important? What is the best way to optimize a portfolio? How to choose our assets?
 
@@ -92,4 +92,8 @@ The simulation also lets the user track the allocations and close market days to
 
 The recorded portfolio behavior is compared to the S&P500 and the risk-free rate.
 
+Implemented in Python
+
 View notebook
+
+View slideshow
