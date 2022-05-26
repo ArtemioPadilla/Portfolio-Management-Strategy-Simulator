@@ -94,6 +94,6 @@ The recorded portfolio behavior is compared to the S&P500 and the risk-free rate
 
 Implemented in Python
 
-View notebook
+[Download notebook](https://github.com/ArtemioPadilla/Portfolio-Management-Strategy-Simulator/raw/main/PMSS.ipynb)
 
-View slideshow
+[View slideshow](https://artemiopadilla.github.io/Portfolio-Management-Strategy-Simulator/)
