@@ -96,7 +96,7 @@ Implemented in Python
 
 [Download notebook](https://github.com/ArtemioPadilla/Portfolio-Management-Strategy-Simulator/raw/main/PMSS.ipynb)
 
-[Download Project HTML](https://github.com/ArtemioPadilla/Portfolio-Management-Strategy-Simulator/blob/main/PMSS.html?raw=true)
+[View Notebook in HTML](https://artemiopadilla.github.io/Portfolio-Management-Strategy-Simulator/PMSS.html)
 
 [View slideshow](https://artemiopadilla.github.io/Portfolio-Management-Strategy-Simulator/)
 
